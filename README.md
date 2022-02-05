@@ -2,19 +2,13 @@
 
 ### I'm Théo FAUCHER, a French student in the first year of the master’s degree in engineering at ESEO (Engineering school of electronics and computer science). 
 
-<br/>
-
 ### I am attracted by computer science and electronics. I like to lead projects in team, and to confront my ideas to those of the others to develop new skills. I enjoy discovering new technologies and understanding how they work.
 
 <br/>
 
 - 👯 I am currently applying for an internship in the embedded systems sector from July to November 
 
-<br/>
-
 ---
-
-<br/>
 
 ### 🛠 Languages :
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"/></code>
