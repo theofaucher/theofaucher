@@ -6,6 +6,8 @@
 
 <br/>
 
+- 🌱 I am currently learning Rust
+- 🔨 I am working on a noise detector in addition to my work
 - 👯 I am currently applying for an internship in the embedded systems sector from July to November 
 
 ---
@@ -13,7 +15,6 @@
 ### 🛠 Languages :
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"/></code>
