@@ -6,11 +6,10 @@
 
 - 🌱 I am currently learning  Rust
 - 🔨 I am working on a connected LEDs system in addition to my work
-- 💬 Ask me about **C++**, **Java**, **NodeJS**
+- 💬 Ask me about **C**, **C++**, **Java**
 - 📫 How to reach me : 
   * *studies*: theo.faucher@reseau.eseo.fr 
   * *freelance*: theo.freelance@fchr.fr
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/theo-faucher/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/theo-faucher/" height="30" width="40" /></a>
-<a href="https://twitter.com/Owzlaa" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/Owzlaa" height="30" width="40" /></a>
