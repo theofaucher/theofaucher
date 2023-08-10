@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Théo FAUCHER</h1>
 
-### I am  a French student in the second year of the master’s degree in engineering at ESEO (Engineering school of electronics and computer science). Next to my studies, I am a freelance C++ developer.
+### I am  a French student in the third year of the master’s degree in engineering at ESEO (Engineering school of electronics and computer science). Next to my studies, I am a freelance C++ developer.
 
 <br/>
 
-- 🌱 I am currently learning  Rust
-- 🔨 I am working on a connected LEDs system in addition to my work
-- 💬 Ask me about **C**, **C++**, **Java**
+- 🌱 I am currently learning Rust
+- 🔨 I am developing a production line for the medical industry.
+- 💬 Ask me about **C**, **C++**, **Python**
 - 📫 How to reach me : 
   * *studies*: theo.faucher@reseau.eseo.fr 
   * *freelance*: theo.freelance@fchr.fr
