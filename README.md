@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Théo FAUCHER</h1>
 
-### I am  a French student in the third year of the master’s degree in engineering at ESEO (Engineering school of electronics and computer science).
+### I am a French student in the third year of the master’s degree in engineering at ESEO (Engineering school of electronics and computer science) in embedded software field.
 <br/>
 
-- 🌱 I am currently learning Rust
 - 🔨 I am developing a production line for the medical industry.
-- 💬 Ask me about **C**, **C++**, **Python**
+- 💬 Ask me about **C/C++**, **Rust**, **Python**
 - 📫 How to reach me : 
   * theo@fchr.fr
 
